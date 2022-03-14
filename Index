@@ -14,6 +14,12 @@
                 <li>Tomas the tank enginne</li>
                 <li>Johny test</li>
         </div>
+        <div>
+            <h3>Nuestra seleccion de ayuda</h3>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3qvt99BhyxEYV3q6V8RgXi1AdwQMxrB35q8mIJ2JS1f9BtDP2a3ETnumjtIKWfUqhV0&usqp=CAU" alt="Perro Ruso">
+            <a href=""></a>
+
+        </div>
     </div>
 </body>
 </html>
