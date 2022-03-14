@@ -1,1 +1,19 @@
-
+<!DOCTYPE htm>
+<html>
+<head>
+    <meta charset ="UTF-8">
+    <tittle>ONG-ayuda a un peludo</tittle>
+</head>
+<body>
+    <div>
+        <h1>ONG-AYUDA A UN PELUDO</h1>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio illo, quaerat aliquid beatae porro dolore suscipit fugiat qui rem recusandae asperiores nulla aliquam saepe tempora excepturi explicabo laborum culpa voluptate.</p>
+        <div>
+            <h2>Nuestro Integrantes</h2>
+            <ul>
+                <li>Tomas the tank enginne</li>
+                <li>Johny test</li>
+        </div>
+    </div>
+</body>
+</html>
